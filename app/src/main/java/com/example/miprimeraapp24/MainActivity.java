@@ -66,11 +66,7 @@ System.out.print("numero" +numero);
 
 
 */
- // Condicionales
 
-        // IF  condicional si
-
-            //if (estado)
 
 
 
